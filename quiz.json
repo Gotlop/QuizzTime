@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge of astronomy with this quiz.",
+  "questions": [
+    {
+      "question": "Which planet is red?",
+      "answers": ["Mars", "Venus", "Earth"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Closest star to Earth?",
+      "answers": ["Sun", "Sirius", "Vega"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a comet's tail made of?",
+      "answers": ["Gas", "Rock", "Metal"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Largest planet?",
+      "answers": ["Jupiter", "Mars", "Earth"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Brightest object in night sky?",
+      "answers": ["Moon", "Venus", "Mars"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which planet has rings?",
+      "answers": ["Saturn", "Mars", "Venus"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a supernova?",
+      "answers": ["Star", "Comet", "Moon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which planet is blue?",
+      "answers": ["Neptune", "Mars", "Venus"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Smallest planet?",
+      "answers": ["Mercury", "Venus", "Mars"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Milky Way?",
+      "answers": ["Galaxy", "Planet", "Star"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an asteroid?",
+      "answers": ["Rock", "Gas", "Water"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "answers": ["Mercury", "Venus", "Earth"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Earth's satellite?",
+      "answers": ["Moon", "Mars", "Jupiter"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a black hole?",
+      "answers": ["Gravity", "Light", "Star"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which planet is called Earth's twin?",
+      "answers": ["Venus", "Mars", "Jupiter"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the hottest planet?",
+      "answers": ["Venus", "Mercury", "Earth"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "answers": ["Jupiter", "Mars", "Saturn"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which planet is icy?",
+      "answers": ["Pluto", "Mars", "Venus"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which planet is known for its red spot?",
+      "answers": ["Jupiter", "Mars", "Saturn"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where is the Great Red Spot?",
+      "answers": ["Jupiter", "Mars", "Saturn"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
